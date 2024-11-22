@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Michael van Dalen
 
-<!--
-**michael-vandalen/michael-vandalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Web Development Student at Codespace
+🌱 Learning: HTML, CSS, JavaScript, and beyond!
+💻 Goal: Building creative and user-friendly web applications.
 
-Here are some ideas to get you started:
+## About Me
+I am a young learner currently studying at Codespace, who is passionate about coding. I enjoy learning new techniques and developments for code to try and perfect my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+Languages: HTML, CSS, JavaScript
+Tools: Git, GitHub, VS Code, Chrome DevTools
+
+## Let's Connect
+Email: michaelvdalen191@gmail.com
+LinkedIn: https://www.linkedin.com/in/michael-van-dalen-503538232/
